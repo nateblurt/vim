@@ -1,4 +1,4 @@
-set colorcolumn=80
+set colorcolumn=81
 syntax on
 
 set nocompatible
